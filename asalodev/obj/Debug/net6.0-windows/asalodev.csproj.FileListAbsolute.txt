@@ -1,0 +1,17 @@
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\bin\Debug\net6.0-windows\asalodev.exe
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\bin\Debug\net6.0-windows\asalodev.deps.json
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\bin\Debug\net6.0-windows\asalodev.runtimeconfig.json
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\bin\Debug\net6.0-windows\asalodev.dll
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\bin\Debug\net6.0-windows\asalodev.pdb
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.csproj.AssemblyReference.cache
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.Form1.resources
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.csproj.GenerateResource.cache
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.AssemblyInfoInputs.cache
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.AssemblyInfo.cs
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.csproj.CoreCompileInputs.cache
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.dll
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\refint\asalodev.dll
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.pdb
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\asalodev.genruntimeconfig.cache
+C:\Users\yusuf\Documents\Programlama\C#\asalodev\asalodev\obj\Debug\net6.0-windows\ref\asalodev.dll
